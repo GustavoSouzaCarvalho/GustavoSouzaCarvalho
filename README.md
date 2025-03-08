@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=50&color=228B22&section=header&reversal=false&textBg=false">
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&pause=1000&color=4CAF50&center=true&vCenter=true&width=1000&lines=Oi,+eu+sou+o+Gustavo+✌️;Hey,+it's+me+Gustavo+✌️" alt="Typing SVG"/>
 </a>
